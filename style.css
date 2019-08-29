@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #ebebeb;
+  }
+nav {
+    background: #ebebeb;
+}
+section {
+    background: #ebebeb;
+    width: 495px;
+    Float: left;
+}
+aside {
+    background: #ebebeb;
+    Float: left;
+}
+footer {
+    background: #ebebeb;
+    clear: both;
+}
