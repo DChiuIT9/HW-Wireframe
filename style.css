@@ -28,6 +28,7 @@ section {
     padding-top: 40px;
     padding-bottom: 10px;
     width: 495px;
+    height: 265px;
     float: left;
     margin-bottom: 20px;
 }
@@ -59,7 +60,7 @@ section {
 aside {
     background: #ebebeb;
     width: 445px;
-    height: 262.5px;
+    height: 265px;
     Float: left;
     padding-top: 40px;
 }
