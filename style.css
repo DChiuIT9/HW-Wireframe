@@ -21,13 +21,12 @@ nav {
 }
 section {
     background: #ebebeb;
-    
+    margin-right: 20px;
 }
 #full {
-    padding-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
     width: 495px;
-    height: 200px;
-    
     float: left;
     margin-bottom: 20px;
 }
@@ -35,25 +34,33 @@ section {
         color: #ebebeb;
         background: #777;
         padding-top: 20px;
-        
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-bottom: 20px;
     }
         #h_tag {
             color: #777;
             background: #ebebeb;
-            padding-top: 20px;
-            margin-bottom: 10px;
+            font-weight: bold;
+            padding:10px;
+            margin-top: 20px;
+            margin-left:20px;
+            margin-bottom:10px;
         }
         #p {
             color: #777;
             background: #ebebeb;
-            padding-top: 20px;
+            padding: 10px;
+            margin-left: 20px;
+            
         }
 aside {
     background: #ebebeb;
-    width: 465px;
-    height: 200px;
+    width: 445px;
+    height: 223px;
     Float: left;
-    padding-top: 30px;
+    padding-top: 40px;
 }
 footer {
     background: #ebebeb;
